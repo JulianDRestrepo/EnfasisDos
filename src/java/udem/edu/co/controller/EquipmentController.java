@@ -4,7 +4,7 @@ import udem.edu.co.entities.Equipment;
 import udem.edu.co.controller.util.JsfUtil;
 import udem.edu.co.controller.util.JsfUtil.PersistAction;
 import udem.edu.co.ejb.EquipmentFacade;
-
+//HOLA
 import java.io.Serializable;
 import java.util.List;
 import java.util.ResourceBundle;
